@@ -17,7 +17,7 @@ This notebook holds solutions to the **SQL 45** problems, focused on SQL queries
 
 I am solving problems from the following curated LeetCode lists:
 
-- [Leetcode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/)
+- [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
 - [Blind 75](https://leetcode.com/list/oizxjoit)
 - [SQL 45](https://leetcode.com/list/o2qifkts)
 - [Grind 169](https://leetcode.com/list/rabvlt31)
