@@ -13,6 +13,9 @@ This notebook includes solutions from the **Leetcode 75 Study Plan**, a beginner
 ### [SQL45.ipynb]()
 This notebook holds solutions to the **SQL 45** problems, focused on SQL queries and database-related questions.
 
+### [Leetcode_DailyChallenge.ipynb](./Leetcode_DailyChallenge.ipynb)
+This notebook holds solutions to the **Leetcode Daily Challenge** problems.
+
 ## 📝 LeetCode Lists
 
 I am solving problems from the following curated LeetCode lists:
