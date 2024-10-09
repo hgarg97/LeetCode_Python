@@ -20,7 +20,7 @@ This notebook holds solutions to the **Leetcode Daily Challenge** problems.
 
 I am solving problems from the following curated LeetCode lists:
 
-- [Neetcode 150](https://leetcode.com/list/rr2ss0g5)
+- [Neetcode 150](https://neetcode.io/roadmap)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
 - [Blind 75](https://leetcode.com/list/oizxjoit)
 - [SQL 45](https://leetcode.com/list/o2qifkts)
