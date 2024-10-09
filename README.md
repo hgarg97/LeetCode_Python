@@ -13,9 +13,6 @@ This notebook contains solutions to the **Blind 75** problems. These are essenti
 ### [Leetcode75.ipynb](./Leetcode75.ipynb)
 This notebook includes solutions from the **Leetcode 75 Study Plan**, a beginner-to-intermediate guide for systematic practice.
 
-### [SQL45.ipynb]()
-This notebook holds solutions to the **SQL 45** problems, focused on SQL queries and database-related questions.
-
 ### [Leetcode_DailyChallenge.ipynb](./Leetcode_DailyChallenge.ipynb)
 This notebook holds solutions to the **Leetcode Daily Challenge** problems.
 
