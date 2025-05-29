@@ -4,6 +4,9 @@ This repository contains my solutions to popular LeetCode problems for coding an
 
 ## 📒 Notebook Overview
 
+### [Leetcode70in5hrs.ipynb](./Leetcode70in5hrs.ipynb)
+This notebook contains solutions from youtube video solving **70 Leetcode Problems** for Interview Prep.
+
 ### [Neetcode_150.ipynb](./Neetcode_150.ipynb)
 This notebook contains solutions to the **Neetcode 150** problems. This is a complete library to practice DSA for Interview Prep
 
@@ -20,6 +23,7 @@ This notebook holds solutions to the **Leetcode Daily Challenge** problems.
 
 I am solving problems from the following curated LeetCode lists:
 
+- [Leetcode70_5Hour](https://www.youtube.com/watch?v=lvO88XxNAzs)
 - [Neetcode 150](https://neetcode.io/roadmap)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
 - [Blind 75](https://leetcode.com/list/oizxjoit)
